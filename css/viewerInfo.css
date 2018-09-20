@@ -4,7 +4,7 @@
 }
 
 #board-info #viewers-area #viewers:before {
-    content: "문크 보러 온 사람 ";
+    content: "의  ";
     cursor: text;
 }
 
